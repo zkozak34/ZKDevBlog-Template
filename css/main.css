@@ -6,6 +6,10 @@ body {
   #header {
     text-align: center;
   }
+
+  .content-area-right {
+    margin-bottom: 15px;
+  }
 }
 
 /* Home > Content-Area-Left > A Post */
@@ -76,4 +80,10 @@ body {
   font-size: 13px;
   color: #aaa;
   margin-bottom: 0;
+}
+
+.post-content p {
+  line-height: 32px;
+  font-size: 21px;
+  font-family: 'Times New Roman', Times, serif;
 }
