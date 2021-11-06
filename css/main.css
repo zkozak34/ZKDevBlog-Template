@@ -82,8 +82,9 @@ body {
   margin-bottom: 0;
 }
 
-.post-content p {
+.post-content p,
+.about-content p
+{
   line-height: 32px;
   font-size: 21px;
-  font-family: 'Times New Roman', Times, serif;
 }
